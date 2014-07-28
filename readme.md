@@ -1,1 +1,1 @@
-# pingan jiayouyouhui cn
+# pingan jiayouyouhui-pc cn
