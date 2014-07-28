@@ -38,6 +38,7 @@
 					.animate({
 						height: 100
 					}, 100*time, function(){
+						$('.morebtn').show();
 						line.icon($(".icon_4"), -30);
 					}).animate({
 						height: "164"

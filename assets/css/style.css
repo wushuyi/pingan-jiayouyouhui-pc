@@ -463,7 +463,26 @@ filter:alpha(opacity:80);
     padding-left: 26px;
     padding-top: 10px;
     width: 234px;}
-
+.morebtn{
+	width: 146px;
+	height: 130px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 12;
+	margin-top: -44px;
+	margin-left: 196px;
+	background-image: url('../images/pc_btn.png');
+	background-repeat: no-repeat;
+	display: none;
+}
+.more_link{
+	display: block;
+	width: 74px;
+	height: 26px;
+	margin-top: 104px;
+	margin-left: 28px;
+}
 /* Media queries
 -------------------------------------------------------------------------------*/
 
