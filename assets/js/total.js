@@ -45,6 +45,9 @@ $(document).ready(function(){
 		_gaq.push(['_trackEvent', 'cityselect', 'click', '点击 '+address]);
 		gadebug();
 	});
-
+	$('.more_link').click(function(){
+		_gaq.push(['_trackEvent', 'button', 'click', '爸爸去哪儿-了解详情']);
+		gadebug();
+	});
 
 });

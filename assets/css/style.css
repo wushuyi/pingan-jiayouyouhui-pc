@@ -478,10 +478,8 @@ filter:alpha(opacity:80);
 }
 .more_link{
 	display: block;
-	width: 74px;
-	height: 26px;
-	margin-top: 104px;
-	margin-left: 28px;
+	width: 100%;
+	height: 100%;
 }
 /* Media queries
 -------------------------------------------------------------------------------*/
